@@ -7,5 +7,4 @@ Focused on solving real-world problems.
 
 ---
 
-[Portfolio](https://kasun24.github.io/)  
-[LinkedIn](https://www.linkedin.com/in/kasun24/)
+[🔗 Portfolio](https://kasun24.github.io/) | [💼 LinkedIn](https://www.linkedin.com/in/kasun24/)
